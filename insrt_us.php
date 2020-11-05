@@ -37,6 +37,7 @@ if ($resultado==false){
 }
 else{
     echo "Registro guardado correctamente";
+    "Location:login.html";
 }
 
 ?>
